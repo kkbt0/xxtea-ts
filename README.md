@@ -35,5 +35,5 @@ console.log("decrypt from binary success: " + (str === decrypt_data));
 ```
 
 
-https://github.com/xxtea/xxtea-js MIT license
+https://github.com/xxtea/xxtea-js MIT license  
 https://github.com/zhaidw/xxtea-ts MIT license
